@@ -1,5 +1,6 @@
 # helP!
 Immediate post-emergency reconstruction - Lima, Peru.
+
 This project is based on the final work of the IHC course at UPC, created by undergraduate students:
 1. Andrea Aponte Cruzado
 2. Raissa
